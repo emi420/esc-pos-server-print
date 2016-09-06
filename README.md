@@ -6,6 +6,7 @@
 
 * Install pip requirements
 * Run 'python server.py'
+* Open 'http://localhost:8001/?h1=ABC123&h2=Testing&p=Lorem%20ipsum.'
 
 ## License
 
