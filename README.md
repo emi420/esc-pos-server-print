@@ -4,7 +4,7 @@
 
 ## Install and run
 
-* Install pip requirements
+* Install requirements 'pip install -r reqs.txt'
 * Run 'python server.py'
 * Open 'http://localhost:8001/?h1=ABC123&h2=Testing&p=Lorem%20ipsum.'
 
