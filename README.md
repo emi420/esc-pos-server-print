@@ -14,7 +14,11 @@
 
 Check the port configuration in `server.py`:
 
-`SERIAL = '/dev/ttyUSB0'`
+```py
+SERIAL = '/dev/ttyUSB0'
+SPEED = 38400
+DENSITY = 3
+```
 
 ## License
 
