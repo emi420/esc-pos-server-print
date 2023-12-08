@@ -10,6 +10,12 @@
 
 <img width="311" alt="Screenshot 2023-07-06 at 00 18 41" src="https://github.com/emi420/esc-pos-server-print/assets/1226194/d0d482ec-21bc-463d-8516-8380edd876a6">
 
+## Not printing?
+
+Check the port configuration in `server.py`:
+
+`SERIAL = '/dev/ttyUSB0'`
+
 ## License
 
 You may use this project under the terms of either the MIT License or the GNU General Public License (GPL) Version 3.
